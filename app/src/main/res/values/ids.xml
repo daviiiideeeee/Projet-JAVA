@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="TextView" >pokemon_name</string>
+    <string name="pokemon_name" >Pokemon</string>
+</resources>
